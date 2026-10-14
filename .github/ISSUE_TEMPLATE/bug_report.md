@@ -12,6 +12,8 @@ Never include passwords, private keys, one-time codes, share passwords, or licen
 Redact usernames, server addresses, and personal file paths in logs and screenshots.
 -->
 
+> **Privacy reminder:** Issues are public. Do not include credentials (SSH/proxy passwords, private keys, tokens, or OTP codes), license keys, share passwords, sharing QR codes, or configuration backups. Redact usernames, server addresses, and personal file paths from logs and screenshots before uploading them. For private support, contact support@secure-pipes.app.
+
 ## Description
 A clear, concise description of the problem.
 

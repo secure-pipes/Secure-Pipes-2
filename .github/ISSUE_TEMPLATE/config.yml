@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Website and Downloads
+    url: https://secure-pipes.app
+    about: Download Secure Pipes and learn about its features.
+  - name: Documentation
+    url: https://github.com/secure-pipes/Secure-Pipes-2/tree/main/docs
+    about: Read the AppleScript and spcli guides.
+  - name: Private Support and Security Reports
+    url: mailto:support@secure-pipes.app
+    about: Contact support privately about licenses, accounts, or security issues. Do not post credentials in public issues.
